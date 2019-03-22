@@ -1,0 +1,12 @@
+# Function dependencies, for example:
+# package>=version
+
+selenium==3.141.0
+facebook-sdk==3.1.0
+google-cloud-pubsub==0.39.1
+
+google-cloud==0.34.0
+grpc-google-pubsub-v1==0.8.1
+urllib3==1.24.1
+Flask==1.0.2
+requests==2.21.0
